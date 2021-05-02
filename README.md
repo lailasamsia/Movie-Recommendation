@@ -11,4 +11,4 @@ The project aims to find recommended movies by collaborative filtering. I am per
 
 ## Result
 
-![mrplot](mr plot.jpg)
+![mrout](mr_out.jpg)
