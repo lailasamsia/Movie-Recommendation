@@ -10,4 +10,5 @@ The project aims to find recommended movies by collaborative filtering. I am per
 4. Modeling
 
 ## Result
+
 ![MR](mr plot.jpg)
